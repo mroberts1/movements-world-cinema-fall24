@@ -1,0 +1,59 @@
+project:
+  type: website
+  resources:
+  - "pdf/*.pdf"
+  
+website:
+  title: "    "
+  site-url: https://mroberts1.github.io/digital-culture-sp24/
+  twitter-card:
+    creator: "@mroberts_vma"
+    card-style: summary_large_image
+  favicon: "/img/cropped-cropped-flourish-1-270x270.gif"
+  navbar:
+    background: "#62259d"
+    search: true
+    right:
+      - icon: envelope
+        aria-label: envelope
+        href: mailto:martin_roberts@emerson.edu
+      - icon: mastodon
+        aria-label: mastodon
+        href: https://merveilles.town/@dokoissho
+      - icon: github
+        aria-label: github
+        href: https://github.com/mroberts1
+      - icon: facebook
+        aria-label: facebook
+        href: https://facebook.com/mr05301
+      - icon: twitter
+        aria-label: twitter
+        href: https://twitter.com/mroberts_VMA
+format:
+  html:
+    toc: false
+    toc-depth: 3
+    toc-location: right
+    toc-title: '   '
+    theme:
+      light: ember.scss
+      dark: [ember.scss, slate]
+    css: custom.scss
+    self-contained: true
+    grid:
+        sidebar-width: 400px
+        body-width: 550px
+        #margin-width: 300px
+        #gutter-width: 1em
+    linestretch: 1.2
+    fontsize: 1.2em
+    smooth-scroll: true
+    linkcolor: "#62259d"
+    link-external-newwindow: true
+fig-responsive: true
+image-alt: " "
+execute:
+  freeze: auto
+reference-location: margin
+citation-location: margin
+editor: visual

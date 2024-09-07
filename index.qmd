@@ -1,0 +1,314 @@
+---
+title: '   '
+---
+
+# Movements in World Cinema
+
+::: column-margin
+![](img/CollegeLockupStacked.jpg){width="60%"}
+<br><br>
+VM402-10-FA24\
+Movements in World Cinema\
+4 credits\
+[Department of Visual & Media Arts](https://emerson.edu/academics/academic-departments/visual-media-arts)\
+[Emerson College](https://emerson.edu/)\
+Fall Semester 2024\
+Tues/Thur 4 September-17 December\
+4:00-5:45 p.m.\
+Walker Building 528\
+[Dr. Martin Roberts](http://mroberts.emerson.build/)\
+:::
+
+<!-- <div> -->
+
+<!-- <video autoplay loop muted playsinline controls="false" width="100%"> -->
+
+<!-- <source src="video/scuba.mp4" type="video/mp4"> -->
+
+<!-- </video> -->
+
+<!-- </div> -->
+
+[![](img/sleepcinemahotel.jpg){width="100%"}](https://iffr.com/en/iffr/2018/films/sleepcinemahotel)
+
+## Overview
+
+This course examines the historical development of so-called “art” cinemas from the 1950s to the present, focusing on the work of filmmakers from Europe, Latin America, the Middle East, Africa, and Asia. Key topics include the filmmaker as auteur, the historical relationship between Hollywood and other national film industries, the impact of international arthouse cinema on U.S. film culture after the break-up of the studio system, and the role of contemporary film festivals and film critics in the circulation of a canon of international auteurs and national cinemas. Particular emphasis is given to the historical impact of processes of globalization on cinema and the emergence of an increasingly cosmopolitan film culture.
+
+## Format
+
+This is primarily a critical-thinking course, although it includes a practical and production component. This means that it encourages you to think reflexively and analytically about the digitally-mediated cultural practices that the course considers, as well as to participate in them; for example, you will be invited to experiment with image-synthesis and text-generating software and analyze the results using key concepts and theoretical frameworks.
+
+**Course Texts**
+
+Paul Schrader, *Transcendental Style in Film: Ozu, Bresson, Dreyer*. Oakland: University of California Press, 2018.
+
+Andrei Tarkovsky, *Sculpting in Time*. Austin: University of Texas Press, 1989.
+
+Other course readings will mostly be distributed as PDFs via Canvas or online.
+
+**Online Resources**
+
+-   [**Unseen Cinema**](https://unseencinema.blogspot.com/), by Benoît Rouilly, about what he calls Contemporary Contemplative Cinema (CCC)
+
+-   [**CinemaWaves**](https://cinemawavesblog.com/), a current attemtpt to document global film movements of the past century.
+
+-   See also Rouilly's second blog, [**SCREENVILLE**](https://screenville.blogspot.com/)
+
+Please add these sites to the Bookmarks toolbar of your browser, as you will be referencing them regularly.
+
+**Evaluation**
+
+Research paper/project (10-12 pages): 25%
+
+Research paper/project presentation: 15%
+
+Film Movements: in-class presentation: 10%
+
+Film Movements: short paper: 15%
+
+Participation (includes attendance, punctuality, active participation in class discussion): 10%
+
+**Assignments**
+
+**Film Movements (50%)**
+
+Select any film movement from the *CinemaWaves* list Present this with relevant clips in a 20-30 minute class presentation.
+
+**Research Paper/Project (25% + 15% presentation)**
+
+Write a 10-12 page paper, including bibliography, on a topic of your choice relevant to the course. This could be a study of a set of films by one filmmaker or an analysis of a topic or theme. This project will be presented in class, with clips, during the last two classes of the semester.
+
+You may also present your project in Video Essay format (max. 10 minutes), but are responsible for all production aspects of the project. Pair work is possible, but each student will receive the same final grade.
+
+------------------------------------------------------------------------
+
+## Schedule
+
+Week 1
+
+09/05 **Introduction: Global Film Culture**
+
+In-class: *Perfect Days* (Wim Wenders, 2023)
+
+------------------------------------------------------------------------
+
+Week 2
+
+09/10 **Transcendental Cinema: Neorealism**
+
+Schrader, "[Rethinking Transcendental Style](pdf/rethinking-transcendental-style.pdf)" (*Transcendental Style in Film*)
+
+In-class: *Umberto D* (De Sica, 1952)
+
+09/12
+
+Bazin, "[A Note on *Umberto D*"; "*Umberto D*: A Great Film](pdf/bazin-umberto-d.pdf)" (*What Is Cinema? Vol. II*)
+
+Deleuze, excerpt from *The Time Image*
+
+In-class: Kogonada, *What Is Neorealism?*
+
+------------------------------------------------------------------------
+
+Week 3
+
+09/17 **Contemplative Cinema I: Yasujiro Ozu**
+
+Schrader, "Ozu" (*Transcendental Cinema*)
+
+*Late Spring* (Yasujiro Ozu, 1949)
+
+*Tokyo-ga* (Wim Wenders, 1985)
+
+*Five* (Abbas Kiarostami, 2003)
+
+09/19 CinemaWaves 1
+
+------------------------------------------------------------------------
+
+Week 4
+
+09/24 **Contemplative Cinema II: Robert Bresson**
+
+Schrader, "Bresson" (*Transcendental Cinema*)
+
+09/26 CinemaWaves 2
+
+------------------------------------------------------------------------
+
+Week 5
+
+10/01 **Boredom I: Michelangelo Antonioni**
+
+Quaranta, "[A Cinema of Boredom: Heidegger, Cinematic Time and Spectatorship](pdf/quaranta.pdf)" (*Film-Philosophy*, 24.1 (2020): 1-21)
+
+*L'Eclisse* (Michelangelo Antonioni, 1962)
+
+10/03 CinemaWaves 3
+
+------------------------------------------------------------------------
+
+Week 6
+
+10/08 **Boredom II: Chantal Akerman**
+
+*Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles* (Chantal Akerman, 1975)
+
+10/10 CinemaWaves 4
+
+------------------------------------------------------------------------
+
+Week 7
+
+10/15 NO CLASS
+
+10/17 CinemaWaves 5
+
+------------------------------------------------------------------------
+
+Week 8
+
+10/22 **Time Itself: Andrei Tarkovsky and Béla Tarr**
+
+Tarkovsky, selected chs. from *Sculpting in Time*
+
+*Nostalghia* (Andrei Tarkovsky, 1983)
+
+*Sátántangó* (Béla Tarr, 1982)
+
+10/24 CinemaWaves 6
+
+------------------------------------------------------------------------
+
+Week 9
+
+10/29 **Slow Cinema I: Tsai Ming-Liang and Apichatpong Weerasethakul**
+
+Lim, "Going Slow" (*Tsai Ming-Liang and a Cinema of Slowness*)
+
+*What Time Is It There?* (Tsai Ming-Liang, 2001)
+
+*Memoria* (Apichatpong Weerasethakul, 2021)
+
+10/31 CinemaWaves 7
+
+**DEADLINE: Research Project proposal (1-2 pages)**
+
+------------------------------------------------------------------------
+
+Week 10
+
+11/05 **Slow Cinema II: Lucrecia Martel and Carlos Reygadas**
+
+de Luca, "[Carnal Spirituality: The Films of Carlos Reygadas](https://www.sensesofcinema.com/2010/feature-articles/carnal-spirituality-the-films-of-carlos-reygadas-2/)" (*Senses of Cinema* 55 (July 2010)
+
+*La Ciénaga* (Lucrecia Martel, 2001)
+
+*Silent Light* (Carlos Reygadas, 2007)
+
+11/07 CinemaWaves 8
+
+------------------------------------------------------------------------
+
+Week 11
+
+11/12 **Slow Cinema III: Naomi Kawase and Naoko Ogigami**
+
+*The Mourning Forest* (Naomi Kawase, 2007)
+
+*Rent-a-Neko* (Naoko Ogigami, 2012)
+
+11/14 CinemaWaves 9
+
+------------------------------------------------------------------------
+
+Week 12
+
+11/19 **Slow Cinema IV: Hirozaku Kore-eda and Ryusuke Hamaguchi**
+
+*Like Father, Like Son* (Hirozaku Kore-eda, 2013)
+
+*Wheel of Fortune and Fantasy* (Ryusuke Hamaguchi, 2021)
+
+11/21 CinemaWaves 10
+
+------------------------------------------------------------------------
+
+Week 13
+
+11/26 **Passages I: Brazilian Cinema 1990-present**
+
+*Passages* (Lúcia Nagib, 2019)
+
+*O Som au Redor* (Kleber Mendonça Filho, 2012)
+
+In-class: *Retratos Fantasmas* (Kleber Mendonça Filho, 2023)
+
+11/28 NO CLASS (Thanksgiving)
+
+------------------------------------------------------------------------
+
+Week 14
+
+12/03 Research Project Presentations
+
+12/05 Research Project Presentations
+
+------------------------------------------------------------------------
+
+Week 15
+
+12/10 Research Project Presentations
+
+12/12 Research Project Presentations
+
+------------------------------------------------------------------------
+
+Week 16
+
+12/17 Research Project Presentations
+
+(Last day of classes)
+
+------------------------------------------------------------------------
+
+## Policies
+
+#### Academic Honesty
+
+It is the responsibility of all Emerson students to know and adhere to the College's policy on plagiarism, which can be found at [emerson.edu/policies/plagiarism](https://emerson.edu/policies/plagiarism "Plagiarism"). If you have any question concerning the Emerson plagiarism policy or about documentation of sources in work you produce in this course, speak to your instructor.
+
+------------------------------------------------------------------------
+
+### Diversity
+
+Every student in this class will be honored and respected as an individual with distinct experiences, talents, and backgrounds. Issues of diversity may be a part of class discussion, assigned material, and projects. The instructor will make every effort to ensure that an inclusive environment exists for all students. If you have any concerns or suggestions for improving the classroom climate, please do not hesitate to speak with the course instructor or to contact the Social Justice Center at 617-824-8528 or by email at [sjc\@emerson.edu](mailto:sjc@emerson.edu).
+
+------------------------------------------------------------------------
+
+### Discrimination, Harassment, or Sexual Violence
+
+If you have been impacted by discrimination, harassment, or sexual violence, I am available to support you, and help direct you to available resources on and off campus. Additionally, the Office of Equal Opportunity ([oeo\@emerson.edu](mailto:oeo@emerson.edu "Email the Office of Equal Opportunity"); 617-824-8999) is available to meet with you and discuss options to address concerns and to provide you with support resources. Please note that I because I am an Emerson employee, any information shared with me related to discrimination, harassment, or sexual violence will also be shared with the Office of Equal Opportunity.  If you would like to speak with someone confidentially, please contact the Healing & Advocacy Collective, the Emerson Wellness Center, or the Center for Spiritual Life.
+
+------------------------------------------------------------------------
+
+### Accessibility
+
+Emerson is committed to providing equal access and support to all students who qualify through the provision of reasonable accommodations, so that each student may fully participate in the Emerson experience. If you have a disability that may require accommodations, please contact Student Accessibility Services (SAS) at [SAS\@emerson.edu](mailto:SAS@emerson.edu) or 617-824-8592 to make an appointment with an SAS staff member.
+
+Students are encouraged to contact SAS early in the semester. Please be aware that accommodations are not applied retroactively.
+
+------------------------------------------------------------------------
+
+### Writing & Academic Resource Center
+
+Students are encouraged to visit and utilize the staff and resources of Emerson's Writing Center, particularly if they are struggling with written assignments. The Writing Center is located at 216 Tremont Street on the 5th floor (tel. 617-824-7874).
+
+------------------------------------------------------------------------
+
+### In-Class Recording
+
+Regardless of modality or whether this course is being recorded by the College with the permission of the students for classroom purposes, this class is considered a private environment and it is a setting in which copyrighted materials, creative works and educational records may be displayed. Audio or video recording, filming, photographing, viewing, transmitting, producing or publishing the image or voice of another person or that person's materials, creative works or educational records without the person's knowledge and expressed consent is strictly prohibited. 
+
+------------------------------------------------------------------------
